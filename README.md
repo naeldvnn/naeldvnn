@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tentang Saya<br><br>🖥️ Saat ini saya sedang mengerjakan<br>Belajar membuat website, program Java, dan desain tampilan modern.<br><br>🤝 Saya ingin berkolaborasi dalam<br>Project coding, desain web, dan pengembangan game atau aplikasi sederhana.<br><br>💡 Saya mencari bantuan dengan<br>HTML, CSS, Java, JavaScript, dan mempercantik tampilan website.<br><br>🌱 Saya sedang belajar<br>Frontend Developer, UI/UX Design, dan dasar pemrograman backend.<br><br>💬 Tanyakan kepada saya tentang<br>Coding dasar, game online, top up website, dan desain modern.<br><br>⚡ Fakta menyenangkan<br>Saya suka mencoba hal baru di dunia teknologi dan membuat tampilan website keren bertema gaming.
+Tentang Saya<br><br>🖥️ I am currently working on<br>Learning to create websites, Java programming, and modern design interfaces.<br><br>🤝 I want to collaborate in<br>Project coding, web design, and development of simple games or applications.<br><br>💡 I am looking for help with<br>HTML, CSS, Java, JavaScript, and beautify the appearance of the website.<br><br>🌱 I am studying<br>Frontend Developer, UI/UX Design, and backend programming basics<br><br>💬 Ask me about<br>Basic coding, online games, top-up websites, and modern design.<br><br>⚡ Fun fact<br>I like trying new things in the world of technology and creating cool gaming-themed website designs.
 
 
 ## 🌐 Socials:
